@@ -1,1 +1,0 @@
-import{i as e}from"./shellParts-Ci8rcNzs.js";import{s as t}from"./motion-D7DG-AcQ.js";var n=`inline-flex min-h-11 items-center gap-1.5 text-body2 font-semibold text-primary underline-offset-4 hover:underline focus-visible:ring-2 focus-visible:ring-ring focus-visible:outline-none`;function r(){return!t(e.sm)}export{r as n,n as t};
