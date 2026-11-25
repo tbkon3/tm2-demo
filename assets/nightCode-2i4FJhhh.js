@@ -1,0 +1,1 @@
+var e=/[^ABCDEFGHJKLMNPQRSTUVWXYZ23456789]/g;function t(t,n){let r=t.toUpperCase().replace(e,``).slice(0,n),i=[];for(let e=0;e<r.length;e+=4)i.push(r.slice(e,e+4));return i.join(`-`)}function n(e){return t(`X`.repeat(e),e)}function r(e){return n(e).length}export{r as n,n as r,t};

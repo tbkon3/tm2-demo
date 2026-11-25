@@ -1,0 +1,1 @@
+function e(e){let[t,n]=e.trim().split(`@`);return!t||!n?e:`${t.slice(0,1)}${`*`.repeat(Math.min(3,Math.max(1,t.length-1)))}@${n}`}export{e as t};

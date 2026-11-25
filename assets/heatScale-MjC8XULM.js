@@ -1,0 +1,1 @@
+var e=[``,`bg-chart-1/10`,`bg-chart-1/20`,`bg-chart-1/30`,`bg-chart-1/40`],t=e.length-1;function n(e,n){return e===null||e<=0||n<=0?0:Math.min(t,Math.max(1,Math.ceil(e/n*t)))}export{n,e as t};

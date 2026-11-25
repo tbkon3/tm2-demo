@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{f as t,h as n}from"./button-Dnt_Sddd.js";import{n as r,t as i}from"./hintTexts-CczaCu6d.js";var a=e(n(),1),o=t();function s({texts:e,labels:t=i,children:n}){let s=(0,a.useMemo)(()=>({texts:e,labels:t}),[e,t]);return(0,o.jsx)(r.Provider,{value:s,children:n})}export{s as t};

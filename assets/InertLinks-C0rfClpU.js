@@ -1,0 +1,1 @@
+import{f as e}from"./button-Dnt_Sddd.js";var t=e();function n({children:e,className:n}){return(0,t.jsx)(`div`,{className:n,onClick:e=>{e.target instanceof Element&&e.target.closest(`a[href]`)&&e.preventDefault()},children:e})}export{n as t};

@@ -1,0 +1,1 @@
+function e(e,t){let n=Math.floor(e/t),r=e-n*t;return Array.from({length:t},(e,t)=>n+ +(t<r))}export{e as t};

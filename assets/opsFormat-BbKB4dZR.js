@@ -1,0 +1,1 @@
+import{o as e}from"./format-BB5l9tUV.js";function t(e){let t=Math.round(Math.max(0,e)*60);if(t>=3600){let e=Math.floor(t/3600),n=Math.round(t%3600/60);return n===0?`${e} h`:`${e} h ${n} min`}let n=Math.floor(t/60),r=t%60;return n===0?`${r} s`:r===0?`${n} min`:`${n} min ${r} s`}function n(t){return`${e(t,2)} %`}export{n,t};

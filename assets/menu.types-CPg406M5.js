@@ -1,0 +1,1 @@
+var e=[`gluten`,`crustaceans`,`eggs`,`fish`,`peanuts`,`soybeans`,`milk`,`nuts`,`celery`,`mustard`,`sesame`,`sulphites`,`lupin`,`molluscs`],t={online:[`pending_payment`,`placed`,`accepted`,`ready`,`completed`],on_site:[`placed`,`accepted`,`ready`,`completed`]};export{t as n,e as t};

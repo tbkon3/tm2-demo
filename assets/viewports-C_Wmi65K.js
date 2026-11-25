@@ -1,0 +1,1 @@
+var e={viewport:{value:`desktop`,isRotated:!1}},t={viewport:{value:`phone`,isRotated:!1}},n={theme:`day`};export{e as n,t as r,n as t};

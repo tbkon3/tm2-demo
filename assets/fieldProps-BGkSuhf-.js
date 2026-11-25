@@ -1,0 +1,1 @@
+function e(e,t){return t?{"aria-invalid":!0,"aria-describedby":e}:{}}export{e as t};

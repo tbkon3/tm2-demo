@@ -1,0 +1,1 @@
+var e=Date.now(),t=e=>String(e).padStart(2,`0`);function n(n){let r=1421+Math.floor((n-e)/6e4);return`${t(Math.floor(r/60)%24)}:${t(r%60)}`}export{n as t};

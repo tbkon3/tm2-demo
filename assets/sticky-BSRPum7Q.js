@@ -1,0 +1,1 @@
+var e=`top-22`;export{e as t};

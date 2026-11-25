@@ -1,0 +1,1 @@
+function e(e,t=e=>`Giocatore ${e}`){return e.map((e,t)=>({player:e,order:t})).sort((e,t)=>t.player.points-e.player.points||e.order-t.order).map(({player:e},n)=>({id:e.id,rank:n+1,label:e.nickname??t(n+1),points:e.points,mine:e.mine}))}export{e as t};

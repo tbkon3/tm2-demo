@@ -1,0 +1,1 @@
+var e=[{code:`it`,autonym:`Italiano`,name:`Italiano`},{code:`en`,autonym:`English`,name:`Inglese`},{code:`de`,autonym:`Deutsch`,name:`Tedesco`},{code:`fr`,autonym:`Français`,name:`Francese`},{code:`es`,autonym:`Español`,name:`Spagnolo`},{code:`ar`,autonym:`العربية`,name:`Arabo`,direction:`rtl`}];export{e as t};

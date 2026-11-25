@@ -1,0 +1,1 @@
+function e(e){let t=Math.ceil(e/60);return t<=1?`Manca meno di un minuto`:`Mancano ${t} minuti`}export{e as t};

@@ -1,0 +1,1 @@
+var e=`inline-flex min-h-11 items-center font-semibold text-primary underline-offset-4 hover:underline focus-visible:ring-2 focus-visible:ring-ring focus-visible:outline-none`;export{e as t};

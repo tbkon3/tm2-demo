@@ -1,0 +1,1 @@
+import{n as e,o as t,t as n}from"./format-BB5l9tUV.js";function r(e){return n(e)}function i(t){return e(t)}function a(e){let r=e/100;return`${e%100==0?n(r):t(r,2)} euro`}function o(e){return e===0?`0`:`${e>0?`+`:`−`}${r(Math.abs(e))}`}export{o as i,i as n,a as r,r as t};

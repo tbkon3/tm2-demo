@@ -1,0 +1,1 @@
+function e(e,t,n){if(e<n)return{kind:`too_few`};let r=Math.floor(e/t)*t;return r<n?{kind:`too_few`}:{kind:`at_least`,value:r}}export{e as t};
