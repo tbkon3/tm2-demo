@@ -1,1 +1,0 @@
-import{k as e}from"./fields-B5IzUi2V.js";function t({day:t,month:n,year:r}){if(t===``||n===``||r.length<4)return null;let i=Number(t),a=Number(n),o=Number(r),s=new Date(Date.UTC(o,a-1,i));if(s.getUTCFullYear()!==o||s.getUTCMonth()!==a-1||s.getUTCDate()!==i)return`invalid`;let c=e.month>a||e.month===a&&e.day>=i;return e.year-o-+!c}export{t};
