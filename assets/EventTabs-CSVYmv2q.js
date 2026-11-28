@@ -1,0 +1,1 @@
+import{t as e}from"./parts-B_OK3ZKL.js";import{n as t,r as n}from"./detail.fixtures-1hDSNuaZ.js";import{s as r}from"./viewports-l7_gU6bu.js";var i=r();function a({tab:r}){return(0,i.jsx)(e,{label:n.tabsName,items:t,current:r})}export{a as t};

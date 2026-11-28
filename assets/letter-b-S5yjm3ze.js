@@ -1,0 +1,1 @@
+import{t as e}from"./createLucideIcon-9qW45N3T.js";var t={name:`letter-b`,size:24,node:[[`path`,{d:`M6 12h9a4 4 0 010 8H7a1 1 0 01-1-1V5a1 1 0 011-1h7a4 4 0 010 8`,key:`n8tvfh`}]],aliases:[`bold`]};t.node;var n=e(t);export{n as t};

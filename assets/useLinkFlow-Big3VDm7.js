@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t}from"./viewports-l7_gU6bu.js";import{u as n}from"./fields-BfXSdBTo.js";import{n as r}from"./accesso.hooks-DkCTZRG-.js";var i=e(t(),1);function a(e){let t=r(),[a,o]=(0,i.useState)(e===`success`?`success`:`loading`);return(0,i.useEffect)(()=>{e===`flow`&&t(()=>o(`success`),n*1.5)},[e,t]),a}export{a as t};

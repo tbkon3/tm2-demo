@@ -1,0 +1,1 @@
+import{L as e}from"./button-CO50LPwD.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t();function r({id:t,children:r}){return(0,n.jsx)(e,{"data-tm-anchor":t,children:r})}export{r as t};

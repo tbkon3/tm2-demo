@@ -1,0 +1,1 @@
+import{t as e}from"./WorkModeTabs-5tVGt2Yb.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t(),r=[{key:`stats`,label:`Le mie statistiche`,href:`#me-dj-stats`},{key:`insights`,label:`Cosa chiede il pubblico`,href:`#cosa-chiede-il-pubblico`}];function i({current:t}){return(0,n.jsx)(e,{label:`Statistiche`,items:r,activeKey:t,rail:!0})}export{i as t};

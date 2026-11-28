@@ -1,1 +1,0 @@
-import{f as e,i as t}from"./button-Dnt_Sddd.js";var n=e();function r({id:e,children:r}){return(0,n.jsx)(t,{"data-tm-anchor":e,children:r})}export{r as t};

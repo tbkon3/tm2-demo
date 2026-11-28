@@ -1,1 +1,0 @@
-import{t as e}from"./searchText-DGpVPKJP.js";var t=[`gennaio`,`febbraio`,`marzo`,`aprile`,`maggio`,`giugno`,`luglio`,`agosto`,`settembre`,`ottobre`,`novembre`,`dicembre`];function n(e){let[,n,r]=e.split(`-`).map(Number);return`${r} ${t[n-1]}`}function r(t,n){let r=e(n.trim());return r===``||e(t).includes(r)}export{r as n,n as t};

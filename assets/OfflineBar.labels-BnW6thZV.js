@@ -1,0 +1,1 @@
+var e=`Sei offline. Le tue azioni verranno inviate appena torni connesso.`;export{e as t};

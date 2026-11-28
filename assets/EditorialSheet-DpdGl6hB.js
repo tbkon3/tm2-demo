@@ -1,0 +1,1 @@
+import{m as e}from"./demo-OOEZ3-5t.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t();function r({wide:t=!1,extraWide:r=!1,...i}){return(0,n.jsx)(e,{width:r?`wide960`:t?`wide640`:`default`,...i})}export{r as t};

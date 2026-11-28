@@ -1,0 +1,1 @@
+var e={cancel:`Torna indietro`},t={copied:`Link copiato: incollalo dove vuoi.`,copyByHand:e=>`Copia a mano il link: ${e}`};export{t as n,e as t};

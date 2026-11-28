@@ -1,0 +1,1 @@
+var e={formula:`Come è calcolato`,computedAt:`Aggiornato alle 21:40`};export{e as t};

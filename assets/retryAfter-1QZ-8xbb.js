@@ -1,0 +1,1 @@
+var e=3600,t=1e3;function n(t){let n=Math.max(1,Math.ceil(t));if(n<60)return{value:n,unit:`second`};let r=Math.ceil(n/60);return r<60?{value:r,unit:`minute`}:{value:Math.ceil(n/e),unit:`hour`}}function r(n){let r=Math.max(1,Math.ceil(n/t)),i;return i=r<=60?(r-1)*t:r<=3540?(Math.ceil(r/60)-1)*60*t:Math.max(3540,(Math.ceil(r/e)-1)*e)*t,Math.max(1,n-i)}export{n,r as t};

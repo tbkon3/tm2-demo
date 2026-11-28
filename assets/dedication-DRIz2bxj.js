@@ -1,0 +1,1 @@
+function e(e,t,n){let r=t.find(t=>t.id===e.categoryId)?.phrases.find(t=>t.id===e.phraseId);if(!r)return``;let i=e.to.trim();return`${i?`${n} ${i}: `:``}${r.text}`}var t=(e,t=`23:48`)=>e===`will_read`?`Voce: verrà letta`:e===`read`?`Voce: letta alle ${t}`:`Voce: non letta, supplemento restituito`;export{t as n,e as t};

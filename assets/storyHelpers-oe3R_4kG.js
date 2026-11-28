@@ -1,0 +1,1 @@
+import{n as e}from"./test-l7S5r1E7.js";var t=t=>async({canvasElement:n})=>{let r=()=>Array.from(n.querySelectorAll(`button`)).find(e=>(e.getAttribute(`aria-label`)??e.textContent??``).trim().startsWith(t));await e(()=>{if(!r())throw Error(`The button «${t}» is not on the page yet.`)}),r()?.click()};export{t};

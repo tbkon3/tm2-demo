@@ -1,0 +1,1 @@
+var e={copy:`Copia`,copied:`Copiato`,copyFailed:`Non sono riuscito a copiare: selezionalo e copialo a mano.`},t={...e,copy:`Copia il link`,copied:`Link copiato`};export{t as n,e as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t}from"./viewports-l7_gU6bu.js";var n={sm:`(min-width: 40rem)`,md:`(min-width: 48rem)`,lg:`(min-width: 64rem)`,xl:`(min-width: 80rem)`},r=e(t(),1),i=(0,r.createContext)({});function a(){return(0,r.useContext)(i)}export{a as n,n as r,i as t};

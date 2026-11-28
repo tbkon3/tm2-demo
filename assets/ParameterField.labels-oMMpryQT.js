@@ -1,0 +1,1 @@
+var e={info:`Informazioni su`,what:`Cosa fa`,example:`Esempio`,risk:`Rischio`,reset:`Ripristina il valore ereditato`,locked:`Bloccato`};export{e as t};

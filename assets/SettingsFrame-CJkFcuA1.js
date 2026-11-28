@@ -1,0 +1,1 @@
+import{t as e}from"./AccessProvider-D-VpluZN.js";import{t}from"./ManagerPage-oIXxpbQd.js";import{v as n}from"./organizzazione.fixtures-DjYPW--Y.js";import{s as r}from"./viewports-l7_gU6bu.js";var i=r();function a({access:r=n,...a}){return(0,i.jsx)(e,{value:r,children:(0,i.jsx)(t,{section:`settings`,scope:`organization`,activeKey:`settings`,...a})})}export{a as t};

@@ -1,0 +1,1 @@
+var e={layout:`fullscreen`};export{e as t};

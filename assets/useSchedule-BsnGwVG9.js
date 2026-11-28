@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{h as t}from"./button-Dnt_Sddd.js";var n=e(t(),1);function r(e,t){let r=(0,n.useEffectEvent)(()=>t.map(e=>e.at)),i=(0,n.useEffectEvent)(e=>t[e]?.run());(0,n.useEffect)(()=>{if(!e)return;let t=r().map((e,t)=>window.setTimeout(()=>i(t),e*1e3));return()=>t.forEach(e=>window.clearTimeout(e))},[e])}export{r as t};

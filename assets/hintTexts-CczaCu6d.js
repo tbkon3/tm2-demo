@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{h as t}from"./button-Dnt_Sddd.js";var n=e(t(),1),r={about:e=>`Informazioni su ${e}`,what:`Cosa fa`,why:`Perché`,example:`Esempio`,close:`Chiudi`,learnMore:`Approfondisci`,showMe:`Mostrami come`},i=(0,n.createContext)({texts:{},labels:r});function a(){return(0,n.useContext)(i)}export{i as n,a as r,r as t};

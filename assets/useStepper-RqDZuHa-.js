@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t}from"./viewports-l7_gU6bu.js";import{a as n}from"./pr.fixtures-D8BKUSPz.js";import{i as r}from"./hooks-Be_KL8B8.js";var i=e(t(),1);function a(e,t,a=n.liveTickMs){let[o,s]=(0,i.useState)(0);return r(e&&o<t.length,a,()=>s(e=>Math.min(e+1,t.length))),t.slice(0,o)}export{a as t};

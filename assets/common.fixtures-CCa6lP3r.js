@@ -1,1 +1,0 @@
-import{s as e}from"./platformShell.fixtures-mSMIc1ZC.js";import"./storyKit-DOimcKQq.js";var t=e,n={orgs:{name:`Vedere le organizzazioni`,role:`platform_support`},moderate:{name:`Moderare i contenuti`,role:`platform_admin`},taxonomies:{name:`Gestire le tassonomie`,role:`platform_admin`}};export{n,t};

@@ -1,0 +1,1 @@
+import{r as e,t}from"./ProviderLogo-CHUF_lbI.js";import{s as n}from"./viewports-l7_gU6bu.js";var r=n();function i({name:n,size:i=`sm`,className:a=`-m-1.5`}){let o=e(n);return o?(0,r.jsx)(t,{provider:o,size:i,decorative:!0,className:a}):null}export{i as t};

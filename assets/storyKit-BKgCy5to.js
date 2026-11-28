@@ -1,0 +1,1 @@
+import"./storyKit-C3IXWbF6.js";var e=`Giulia Ferrante`,t=`giulia.ferrante@tunemates.it`,n={viewOps:{name:`Vedere lo stato del sistema`,role:`platform_admin`},manageOps:{name:`Gestire le operazioni`,role:`platform_admin`},consoles:{name:`Aprire le console`,role:`platform_admin`},dataRepairs:{name:`Riparare i dati`,role:`platform_admin`}};export{e as n,n as r,t};

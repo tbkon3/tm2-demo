@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t}from"./viewports-l7_gU6bu.js";var n=e(t(),1);function r(e){let[t,r]=(0,n.useState)(!1);return t?{rows:[...e,...e.map(e=>({...e,id:`${e.id}-p2`}))],onLoadMore:void 0}:{rows:[...e],onLoadMore:()=>r(!0)}}export{r as t};

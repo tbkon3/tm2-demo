@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{r as t}from"./dist-B-uddiZo.js";import{n}from"./frameCover-DUPDt3yu.js";var r=e(t(),1);function i({children:e}){let t=n();return t?t.root?(0,r.createPortal)(e,t.root):null:e}export{i as t};

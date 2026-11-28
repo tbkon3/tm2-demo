@@ -1,0 +1,1 @@
+var e=`Cancella la ricerca`;export{e as t};

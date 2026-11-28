@@ -1,0 +1,1 @@
+import{t as e}from"./lock-BcdJ-NZc.js";import{a as t,s as n}from"./viewports-l7_gU6bu.js";var r=n();function i({text:n,className:i}){return(0,r.jsxs)(`p`,{className:t(`flex items-start gap-1.5 text-body2`,i),children:[(0,r.jsx)(e,{"aria-hidden":`true`,className:`mt-0.5 size-4 shrink-0 text-muted-foreground`}),n]})}export{i as t};

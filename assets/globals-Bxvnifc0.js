@@ -1,1 +1,0 @@
-import"./storyKit-DOimcKQq.js";var e={viewport:{value:`tablet`,isRotated:!1}},t={viewport:{value:`tv`,isRotated:!1}};export{t as n,e as t};

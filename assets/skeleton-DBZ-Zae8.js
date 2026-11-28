@@ -1,1 +1,0 @@
-import{c as e,f as t}from"./button-Dnt_Sddd.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`div`,{"data-slot":`skeleton`,className:e(`rounded-md bg-accent motion-safe:animate-pulse`,t),...r})}export{r as t};

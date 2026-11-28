@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t,s as n}from"./viewports-l7_gU6bu.js";var r=e(t(),1),i=n();function a(){let[e,t]=(0,r.useState)(``);return{note:e?(0,i.jsx)(`p`,{role:`status`,className:`border-y py-2 text-body2`,children:e}):null,say:e=>()=>t(e)}}export{a as t};

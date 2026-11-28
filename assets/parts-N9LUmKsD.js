@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t,s as n}from"./viewports-l7_gU6bu.js";var r=e(t(),1),i=n(),a=(0,r.memo)(function({write:e}){return(0,i.jsx)(`span`,{className:`inline-flex min-h-6 items-center rounded-sm border px-1.5 text-caption font-semibold whitespace-nowrap`,children:e?`Scrive`:`Legge`})});a.displayName=`WriteWord`;export{a as t};

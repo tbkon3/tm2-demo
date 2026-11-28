@@ -1,0 +1,1 @@
+function e({data:e,slotHeader:t,latest:n,scrub:r=`Valori del grafico`}){return{data:e,slotHeader:t,latest:n,scrub:r,other:`Altro`,compare:`linea tratteggiata`,loading:``}}export{e as t};

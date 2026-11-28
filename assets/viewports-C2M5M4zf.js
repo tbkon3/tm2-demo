@@ -1,1 +1,0 @@
-import"./storyKit-DOimcKQq.js";var e={viewport:{value:`tv`,isRotated:!1}},t={...e,theme:`day`};export{e as n,t};

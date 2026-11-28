@@ -1,0 +1,1 @@
+import{a as e,s as t}from"./viewports-l7_gU6bu.js";var n=t(),r=`Le statistiche sono aggregate: nessun cliente è identificabile.`;function i({text:t=r,className:i}){return(0,n.jsx)(`p`,{className:e(`border-t pt-4 text-caption text-muted-foreground`,i),children:t})}export{i as t};

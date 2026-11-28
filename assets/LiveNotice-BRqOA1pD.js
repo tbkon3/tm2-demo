@@ -1,1 +1,0 @@
-import{c as e,f as t}from"./button-Dnt_Sddd.js";var n=t();function r({text:t}){return(0,n.jsx)(`p`,{role:`status`,className:e(`text-body2 font-semibold`,t===``&&`sr-only`),children:t})}export{r as t};

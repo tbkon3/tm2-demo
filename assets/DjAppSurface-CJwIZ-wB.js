@@ -1,0 +1,1 @@
+import{n as e}from"./DjAreaFrame-Cj0RAaQh.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t();function r({children:t}){return(0,n.jsx)(e,{value:`app`,children:t})}export{r as t};

@@ -1,0 +1,1 @@
+import{s as e}from"./viewports-l7_gU6bu.js";var t=e();function n({text:e}){return(0,t.jsx)(`p`,{role:`status`,"aria-live":`polite`,className:`sr-only`,children:e})}export{n as t};

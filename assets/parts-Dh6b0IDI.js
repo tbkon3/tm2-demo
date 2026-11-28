@@ -1,0 +1,1 @@
+import{a as e,s as t}from"./viewports-l7_gU6bu.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`select`,{className:e(`min-h-11 w-full rounded-md border border-input bg-background px-3 text-body2 focus-visible:ring-2 focus-visible:ring-ring focus-visible:outline-none disabled:opacity-50`,t),...r})}export{r as t};

@@ -1,0 +1,1 @@
+import{o as e,t}from"./format-BB5l9tUV.js";import"./gestore.fixtures-vkwa1FqD.js";function n(n,r){let i=Number(r.replace(`,`,`.`));if(r.trim()===``||!Number.isFinite(i)||!n.decimal&&!Number.isInteger(i)||i<n.min||i>n.max)return`Scrivi ${n.decimal?`un numero`:`un numero intero`} da ${n.decimal?e(n.min,1):t(n.min)} a ${n.decimal?e(n.max,1):t(n.max)}.`}export{n as t};

@@ -1,0 +1,1 @@
+var e={orgs:{name:`Vedere le organizzazioni`,role:`platform_support`},moderate:{name:`Moderare i contenuti`,role:`platform_admin`},taxonomies:{name:`Gestire le tassonomie`,role:`platform_admin`}};export{e as t};

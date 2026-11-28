@@ -1,0 +1,1 @@
+import{yt as e}from"./demo-OOEZ3-5t.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t();function r({retryable:t=!0,onRetry:r,className:i,...a}){return(0,n.jsx)(e,{state:`error`,loadingLabel:``,error:{retryable:t,...a},onRetry:r,className:i})}export{r as t};

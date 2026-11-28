@@ -1,0 +1,1 @@
+import{t as e}from"./AgeGate-vSo49xrY.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t();function r({title:t,text:r}){return(0,n.jsx)(e,{isAdult:!1,variant:`note`,restricted:{title:t,message:r},children:null})}export{r as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t,s as n}from"./viewports-l7_gU6bu.js";import{t as r}from"./format-BB5l9tUV.js";var i=e(t(),1),a=n(),o=(0,i.memo)(function({value:e,threshold:t,labels:n,className:i}){return(0,a.jsx)(`span`,{className:i??`tabular-nums`,children:e<t?n.few:n.atLeast(r(e))})});o.displayName=`RoundedCount`;export{o as t};

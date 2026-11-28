@@ -1,0 +1,1 @@
+import{t as e}from"./button-CO50LPwD.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t();function r({label:t,onLoadMore:r,loading:i=!1,disabled:a=!1,className:o}){return r?(0,n.jsx)(e,{type:`button`,variant:`outline`,loading:i,disabled:a,onClick:r,className:o,children:t}):null}export{r as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./InertLinks-DJzaIc69.js";import{s as t}from"./viewports-l7_gU6bu.js";var n=t(),r={layout:`fullscreen`};function i(t){return(0,n.jsx)(e,{children:t})}export{i as n,r as t};

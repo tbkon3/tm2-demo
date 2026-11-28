@@ -1,0 +1,1 @@
+function e(e,t){let n=e.flatMap(e=>e.items.filter(e=>e.wheelchair).map(e=>e.key)),r=n.map(e=>t[e]?.value??`unknown`).filter(e=>e!==`unknown`);return r.length===0?`unknown`:r.length===n.length&&r.every(e=>e===`yes`)?`yes`:r.every(e=>e===`no`)?`no`:`limited`}function t(e,t){return e.items.filter(e=>t[e.key]!==void 0).length}export{e as n,t};

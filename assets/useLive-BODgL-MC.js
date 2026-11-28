@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{d as t}from"./viewports-l7_gU6bu.js";var n=e(t(),1);function r(e,t){let[r,i]=(0,n.useState)(!1);return(0,n.useEffect)(()=>{if(!t)return;let n=window.setTimeout(()=>i(!0),e*1e3);return()=>{window.clearTimeout(n),i(!1)}},[e,t]),t&&r}export{r as t};

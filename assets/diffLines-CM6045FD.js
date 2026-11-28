@@ -1,0 +1,3 @@
+function e(e,t){let n=e.split(`
+`),r=t.split(`
+`),i=Array.from({length:n.length+1},()=>Array(r.length+1).fill(0));for(let e=n.length-1;e>=0;e--)for(let t=r.length-1;t>=0;t--)i[e][t]=n[e]===r[t]?i[e+1][t+1]+1:Math.max(i[e+1][t],i[e][t+1]);let a=[],o=0,s=0;for(;o<n.length&&s<r.length;)n[o]===r[s]?(a.push({kind:`same`,text:n[o]}),o++,s++):i[o+1][s]>=i[o][s+1]?a.push({kind:`removed`,text:n[o++]}):a.push({kind:`added`,text:r[s++]});for(;o<n.length;)a.push({kind:`removed`,text:n[o++]});for(;s<r.length;)a.push({kind:`added`,text:r[s++]});return a}export{e as t};
